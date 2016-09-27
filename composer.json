@@ -1,6 +1,7 @@
 {
     "name": "mitchwilliamson/oauth2-youtube",
     "description": "A YouTube OAuth2 provider for league/oauth2-client",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mitchell Williamson",
